@@ -37,7 +37,7 @@ data:
         <title>GitOps Demo</title>
     </head>
     <body>
-        <h1>VERSION 1.0</h1>
+        <h1>VERSION 2.0 - GitOps works!</h1>
         <p>This application is controlled by Git</p>
         <p>Updated: 2025-01-15</p>
     </body>
