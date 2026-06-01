@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "CryH1T/gitops-diplom",
+  "pipelineDirectory": "gitops-diplom",
+  "workspaceDirectory": "gitops-diplom\\gitops-diplom",
+  "repositories": {
+    "CryH1T/gitops-diplom": {
+      "repositoryPath": "gitops-diplom\\gitops-diplom",
+      "lastRunOn": "06/01/2026 20:42:27 +03:00"
+    }
+  },
+  "lastRunOn": "06/01/2026 20:42:27 +03:00"
+}
