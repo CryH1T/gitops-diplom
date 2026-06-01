@@ -44,6 +44,6 @@ data:
     <body onload="updateTime()">
         <h1>VERSION 6.0 - GitOps works, no russian</h1>
         <p>This app is controlled via Git</p>
-        <p>Current time --- Minsk: <span id="time"></span></p>
+        <p>Current time - Minsk: <span id="time"></span></p>
     </body>
     </html>
