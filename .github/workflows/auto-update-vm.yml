@@ -1,0 +1,20 @@
+name: Auto-Update VM
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'vm-update/**'
+
+jobs:
+  update-vm:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Update VM via Vagrant
+        run: |
+          cd D:\diploma\gitops
+          vagrant reload --provision
+          echo "VM automatically updated!"

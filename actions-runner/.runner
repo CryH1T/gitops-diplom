@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-AA1HA20",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/O0QjHTClNKHg1JaZUDKU4WQbUmskTlrTojtRlImlWCNEqolAtT/",
+  "gitHubUrl": "https://github.com/CryH1T/gitops-diplom",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
