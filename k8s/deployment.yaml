@@ -45,6 +45,6 @@ data:
         <h1>VERSION 6.0 - GitOps works, no russian!</h1>
         <p>This application is controlled via Git</p>
         <p>Current time --- Minsk: <span id="time"></span></p>
-	<p>k8s - deployment</p>
+        <p>k8s - deployment</p>
     </body>
     </html>
